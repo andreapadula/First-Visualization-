@@ -1,0 +1,14 @@
+1.What findings did you determine from the submitted class data? What numbers are most/least frequent? Are there any patterns associated with the digits?
+In my findings I found that most frequents numbers were 10 and 8 and 2. In fact, with the bar graph you can see that three bars are higher than the other and by looking at the bingo table you tell that those three numbers are brighter than the others. also the numbers 50 and 67 are very frequent in our data set. 
+the least frequent numbers are 33,38,39,48,57,58,69,75,82,84,85,91,92,94.
+The patter that I found is that the numbers that ends with 0 or are multiple of 6 occurred at least once. Also the first 14 numbers occurrences is very frequent in the data file while the rest is "kind" equally distrusted
+
+2.Which visualization did you find most effective for seeing patterns? Why?
+I think for seeing the patterns the bingo table was more effective because you have displayed all the numbers written and it is easier to tell which patterns are displayed. Also you have the possibility to look rows and columns that help to find a patter
+
+3.Were the dot plots or bar graphs more effective for comparing the class’s data to random data? Why?
+I think the bar graphs was more effective for comparing the class’s data to random data, because the colors and the height helped me more to understand better the comparison. I have also to say that the dot plots were very small and they were kind of confusing due the small size and the black and white tone
+
+4.How might you improve these visualizations given additional time?
+For the dot plots I think I would use a different color scheme. I found the color scheme black/grey and white a little too similar. Probably  I would also use some sort of value for our x-axis. And I wouldn't just change color of the dot based of the occurrence of a number but also the size of the dot. For the bar graph I think I would put the x axis for the bar graph. Probably the x axis is too much, but some sort of segment of the multiple of ten would be useful. For the bingo table I would improve my color scheme to see easier the most frequent numbers
+
