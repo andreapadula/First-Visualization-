@@ -1,4 +1,6 @@
-# First-Visualization-
+# First-Visualization
+
+this project was done by using openFrameworks 
 
 
 By using random number given as text file, each number is drawn as a semi-transparent circle in a position specified by it’s value. Duplicates are draw on top of each other, creating more opacity for more frequent numbers.
