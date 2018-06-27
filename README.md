@@ -5,3 +5,4 @@ By using random number given as text file, each number is drawn as a semi-transp
 
 The result should look like this:
 
+![Alt text](part1A.png?raw=true "Title")
